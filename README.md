@@ -1,6 +1,7 @@
 # Fundamentals-of-Data-Analytics-C740
 
 COMPETENCIES
+
 4030.1.10 : Introduction to Data Analytics -
 The graduate summarizes data by means of applying descriptive statistics.
 
